@@ -8,8 +8,6 @@ Address data collection app for Open Data initiative.
 - Add authentication.
 - Take a picture of the property and upload.
 
-# Contributions
-
 # License
 This is under Apache 2.0 license
 
